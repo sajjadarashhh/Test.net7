@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oz7rww0gL1gsuHqeOQJ2mh7rpIeHF6bw5VBJaI5P5VnySnd24MvvH1g5sbflQLeiLES2urB7ZdlmH/aYc5D4Lw==",
+  "dgSpecHash": "wi+0aRf/7pKn0JUwWYvDGLp4AU4qntU7ryTEQjfdq74so9cTXATzxFkvZTKgflh7sIwFOYH33G4bl5xeIv+ZJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sajja\\source\\repos\\MultipleEventHandlers\\MultipleEventHandlers\\MultipleEventHandlers.csproj",
+  "projectFilePath": "C:\\Users\\sajja\\Source\\Repos\\sajjadarashhh\\Test.net7\\MultipleEventHandlers\\MultipleEventHandlers\\MultipleEventHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sajja\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0-preview.4.22251.1\\microsoft.aspnetcore.authorization.7.0.0-preview.4.22251.1.nupkg.sha512",
     "C:\\Users\\sajja\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0-preview.4.22251.1\\microsoft.aspnetcore.components.7.0.0-preview.4.22251.1.nupkg.sha512",
