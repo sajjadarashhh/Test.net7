@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MultipleEventHandlers",
+    "\\MultipleEventHandlers\\MultipleEventHandlers",
+    "\\MultipleEventHandlers\\MultipleEventHandlers\\Pages"
   ],
+  "SelectedNode": "\\MultipleEventHandlers\\MultipleEventHandlers\\Pages\\Index.razor",
   "PreviewInSolutionExplorer": false
 }

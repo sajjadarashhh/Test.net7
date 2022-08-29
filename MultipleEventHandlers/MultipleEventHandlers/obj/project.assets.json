@@ -1832,11 +1832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sajja\\Source\\Repos\\sajjadarashhh\\Test.net7\\MultipleEventHandlers\\MultipleEventHandlers\\MultipleEventHandlers.csproj",
+      "projectUniqueName": "C:\\Users\\sajja\\source\\repos\\sajjadarashhh\\Test.net7\\MultipleEventHandlers\\MultipleEventHandlers\\MultipleEventHandlers.csproj",
       "projectName": "MultipleEventHandlers",
-      "projectPath": "C:\\Users\\sajja\\Source\\Repos\\sajjadarashhh\\Test.net7\\MultipleEventHandlers\\MultipleEventHandlers\\MultipleEventHandlers.csproj",
+      "projectPath": "C:\\Users\\sajja\\source\\repos\\sajjadarashhh\\Test.net7\\MultipleEventHandlers\\MultipleEventHandlers\\MultipleEventHandlers.csproj",
       "packagesPath": "C:\\Users\\sajja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sajja\\Source\\Repos\\sajjadarashhh\\Test.net7\\MultipleEventHandlers\\MultipleEventHandlers\\obj\\",
+      "outputPath": "C:\\Users\\sajja\\source\\repos\\sajjadarashhh\\Test.net7\\MultipleEventHandlers\\MultipleEventHandlers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

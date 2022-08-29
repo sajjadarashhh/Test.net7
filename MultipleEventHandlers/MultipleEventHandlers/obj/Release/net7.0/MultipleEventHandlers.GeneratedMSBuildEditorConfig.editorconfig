@@ -12,11 +12,11 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MultipleEventHandlers
 build_property.RootNamespace = MultipleEventHandlers
-build_property.ProjectDir = C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\
+build_property.ProjectDir = C:\Users\sajja\source\repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers
+build_property.MSBuildProjectDirectory = C:\Users\sajja\source\repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/sajja/Source/Repos/sajjadarashhh/Test.net7/MultipleEventHandlers/MultipleEventHandlers/App.razor]

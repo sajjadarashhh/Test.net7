@@ -810,8 +810,6 @@ C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\Multip
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\7yMDxV5I.gz
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\c08WQlky.gz
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\FNyPDw0l.gz
-C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\6ZAYR++k.gz
-C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\1KyaUaNx.gz
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\ZPvLR+T5.gz
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\blazor.boot.json
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\staticwebassets\msbuild.MultipleEventHandlers.Microsoft.AspNetCore.StaticWebAssets.props
@@ -830,3 +828,5 @@ C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\Multip
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\refint\MultipleEventHandlers.dll
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\MultipleEventHandlers.pdb
 C:\Users\sajja\Source\Repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\ref\MultipleEventHandlers.dll
+C:\Users\sajja\source\repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\YOyQ8sJF.gz
+C:\Users\sajja\source\repos\sajjadarashhh\Test.net7\MultipleEventHandlers\MultipleEventHandlers\obj\Debug\net7.0\build-gz\z9VVdYTV.gz
